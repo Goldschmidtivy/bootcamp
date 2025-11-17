@@ -35,8 +35,8 @@ body {
 }
 
 .logo img {
-    height: 30px;
-    width: 30px;
+    height: 50px;
+    width: 50px;
     border-radius: 50%;
     object-fit: cover;
 }
@@ -506,4 +506,5 @@ body {
 .dynamic-quote.exit {
     left: -100%; /* slide out left */
 }
+
 
